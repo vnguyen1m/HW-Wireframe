@@ -1,0 +1,25 @@
+.jumbotron {
+	background-color: #7777;
+	content: #ebebeb;
+}
+
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+
+aside, section, article {
+	font-family: sans-serif;
+	color: blue;
+	font-size: 12px;
+}
+
+nav, header, footer {
+	font-family: arial;
+	font-size: 18px;
+
+}
+
+p.clear {
+    clear: both;
+}
